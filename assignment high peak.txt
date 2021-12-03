@@ -1,5 +1,5 @@
 import java.util.Scanner;
-import java.util.Arrays;//import it into main arryays
+import java.util.Arrays;//import it into main arryays and we need to do this for below comment also.
 import java.util.*;//it is going to change and it will be depends upon the code as well
  class main{
      public static void main(String args[])
